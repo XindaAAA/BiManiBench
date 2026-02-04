@@ -1,6 +1,6 @@
 # BiManiBench
 
-This is the official implementation of the paper: **"BiManiBench: Your Paper Title Here"**.
+This is the official implementation of the paper: **"BiManiBench: A Hierarchical Benchmark for Evaluating Bimanual Coordination of Multimodal Large Language Models"**.
 
 [Paper Link (Coming Soon)] | [Project Page (Coming Soon)]
 
